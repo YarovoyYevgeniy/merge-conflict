@@ -1,3 +1,4 @@
 var num = 50;
-var truth = "Hello catA";
+var truth = "Hello dog";
+
 
